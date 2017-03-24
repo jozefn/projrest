@@ -1,0 +1,12 @@
+---
+1:
+  address: 2222 Smith Way Santa Cruz CA 77777
+  id: 1
+  name: Jack Smith
+  phone: 333-333-3333
+2:
+  address: 2324 Happy Way HappyTown CA 88888
+  id: 2
+  name: Jim Drake
+  phone: 777-777-7777
+index: 3
